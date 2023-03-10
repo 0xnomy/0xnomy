@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **web3, blockchain and social media management**
 
-- 📫 Contact me **https://www.linkedin.com/in/naumanalimurad/**
+- 📫 Contact me: **https://www.linkedin.com/in/naumanalimurad/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
