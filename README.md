@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nomy, I'm an aspiring AI Engineer from Pakistan.</h2>
+<h2 align="left">My name is Nomy, I'm an aspiring AI Engineer from Pakistan.</h2>
 
 ###
 
