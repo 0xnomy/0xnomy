@@ -1,4 +1,4 @@
-<h2 align="left">My name is Nomy, I'm an aspiring AI Engineer from Pakistan.</h2>
+<h2 align="left">Hi, my name is Nauman! I'm a student at GIKI studying Data Science. I have particular interests in artificial intelligence, machine learning and data analytics , so feel free to reach out!/h2>
 
 ###
 
