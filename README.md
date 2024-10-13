@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Nauman! I'm a student at GIKI studying Data Science. I have particular interests in artificial intelligence, machine learning, and data analytics, so feel free to reach out! </h2>
+<h2 align="left">Hi, I’m Nauman, a Data Science student at GIKI focusing on AI for real-world applications. My research interests revolve around deep learning, computer vision, LLMs, and large-scale data analytics, especially in areas like geospatial analysis and AI-driven solutions for risk reduction. I’m always open to collaborating on innovative projects and co-authoring research papers. Let's connect! </h2>
 
 ###
 
