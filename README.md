@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I’m Nauman, a Data Science student at GIKI focusing on AI for real-world applications. My research interests revolve around deep learning, computer vision, LLMs, and large-scale data analytics, especially in areas like geospatial analysis and AI-driven solutions for risk reduction. I’m always open to collaborating on innovative projects and research.</h2>
+<h2 align="left">Hi, I’m Nauman. My research interests revolve around deep learning, computer vision, LLMs, and large-scale data analytics, especially in areas like geospatial analysis, medical imaging and AI-driven solutions for risk reduction. I’m always open to collaborating on innovative projects and research.</h2>
 
 ###
 
