@@ -4,7 +4,7 @@ Hi, I’m Nauman. My research interests revolve around deep learning, computer v
 
 ---
 
-## 🔬 Research & Interests
+## Research & Interests
 
 - Deep Learning & Foundation Models  
 - Vision-Language Models (VLMs)  
