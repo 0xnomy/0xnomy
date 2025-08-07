@@ -1,5 +1,5 @@
 <h3 align="left">
-Hi, I’m Nauman. My research interests revolve around deep learning, computer vision, LLMs, and large-scale data analytics.
+Hi, I’m Nauman.
 </h3>
 
 ---
