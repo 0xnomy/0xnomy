@@ -1,5 +1,5 @@
 ### Hi, I’m Nauman. 
-I’m an AI Engineer & Researcher passionate about building scalable, impactful AI solutions. My research interests include:
+I’m an AI engineer and researcher focused on building scalable, impactful AI solutions. My research interests include:
 
 - Deep Learning & Foundation Models  
 - Vision-Language Models (VLMs)  
