@@ -1,18 +1,10 @@
-<h3 align="left">
-Hi, I’m Nauman.
-</h3>
-
----
-
-## Research & Interests
+### Hi, I’m Nauman. 
+I’m an AI Engineer & Researcher passionate about building scalable, impactful AI solutions. My research interests include:
 
 - Deep Learning & Foundation Models  
 - Vision-Language Models (VLMs)  
-- Computer Vision in Resource-Constrained Environments  
+- Computer Vision 
 - Agentic AI & Multi-Agent Systems  
 - Large Language Models (LLMs)  
 - Medical Imaging & Explainable AI  
-- Geospatial Analysis & GLOF Risk Modeling  
 - Scalable AI for Climate, Health, and Infrastructure
-
----
