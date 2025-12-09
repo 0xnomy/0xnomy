@@ -8,3 +8,5 @@ I’m an AI engineer and researcher focused on building scalable, impactful AI s
 - Large Language Models (LLMs)  
 - Medical Imaging & Explainable AI  
 - Scalable AI for Climate, Health, and Infrastructure
+
+Homepage: https://naumanmurad.dev
